@@ -1,2 +1,3 @@
 # my-programs
-get starting to github
+Snakes Game:
+This is a very popular snake game in python.
